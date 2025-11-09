@@ -1,13 +1,14 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=tml3123&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00FFD1&center=true&vCenter=true&width=750&lines=Tarandeep+Singh;Software+Developer+%7C+Java+%26+Full-Stack+Developer;Building+Scalable+%26+Impactful+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&color=00FFD1&center=true&vCenter=true&width=750&lines=Tarandeep+Singh;Software+Developer;Java+%7C+Full-Stack+Developer" />
 </p>
+
 
 ---
 
 ### 👨‍💻 About Me  
-- 💡 Passionate **Software Developer** focused on Java & Full-Stack Development  
+- 💡 Passionate ** Software Developer** focused on Java & Full-Stack Development  
 - 🧠 Skilled in **Java, Spring Boot, Hibernate, ReactJS, React Native, MySQL**  
 - 🏗 Experienced in building **E-commerce platforms, tech blogs & note apps**  
 - 🌐 Hands-on with **JSP, Servlets, HTML, CSS, Bootstrap & JavaScript**  
